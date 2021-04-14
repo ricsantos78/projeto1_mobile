@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Atividade Mobile</string>
+    <string name="login">Login</string>
+    <string name="cadastre_se">Cadastre-se</string>
+    <string name="sobre">Sobre</string>
+    <string name="title_activity_tela__login">Tela_Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="Entrar">Entrar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_tela_login">TelaLogin</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="nomecompleto">Nome Completo</string>
+    <string name="endereco">Endereço</string>
+    <string name="numero">Número</string>
+    <string name="cep">CEP</string>
+    <string name="complemento">Complemento</string>
+    <string name="ok">OK</string>
+    <string name="textosbre">Jose Ricardo Mat: 01224743</string>
+    <string name="site">Site</string>
+</resources>
